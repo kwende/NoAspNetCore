@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NoAspNetCore (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NoAspNetCore (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
